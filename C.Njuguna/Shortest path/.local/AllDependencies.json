@@ -3487,15 +3487,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\christine.njuguna\\.nuget\\packages\\": {}
+    "C:\\Users\\maryanne.ochieng\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "shortest path",
       "projectName": "shortest path",
-      "projectPath": "C:\\Users\\christine.njuguna\\OneDrive - NTT\\Documents\\UIPath\\BlankProcess2\\.local",
-      "packagesPath": "C:\\Users\\christine.njuguna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\christine.njuguna\\OneDrive - NTT\\Documents\\UIPath\\BlankProcess2\\.local"
+      "projectPath": "C:\\Users\\maryanne.ochieng\\Desktop\\TAP_EWA_2020\\C.Njuguna\\Shortest path\\.local",
+      "packagesPath": "C:\\Users\\maryanne.ochieng\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maryanne.ochieng\\Desktop\\TAP_EWA_2020\\C.Njuguna\\Shortest path\\.local"
     },
     "frameworks": {
       "net461": {
