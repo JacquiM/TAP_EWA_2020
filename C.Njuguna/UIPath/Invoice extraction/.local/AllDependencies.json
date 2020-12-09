@@ -3690,9 +3690,9 @@
     "restore": {
       "projectUniqueName": "Invoice Extraction",
       "projectName": "Invoice Extraction",
-      "projectPath": "C:\\Users\\christine.njuguna\\OneDrive - NTT\\Documents\\UIPath\\Invoice extraction\\.local",
+      "projectPath": "C:\\Users\\christine.njuguna\\TAP\\TAP_EWA_2020\\C.Njuguna\\UIPath\\Invoice extraction\\.local",
       "packagesPath": "C:\\Users\\christine.njuguna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\christine.njuguna\\OneDrive - NTT\\Documents\\UIPath\\Invoice extraction\\.local"
+      "outputPath": "C:\\Users\\christine.njuguna\\TAP\\TAP_EWA_2020\\C.Njuguna\\UIPath\\Invoice extraction\\.local"
     },
     "frameworks": {
       "net461": {
